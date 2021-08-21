@@ -1,8 +1,8 @@
 package ParkingLot;
 
-import SystemDesign.ParkingLot.Model.ParkingSlotType;
-import SystemDesign.ParkingLot.Model.Vehicle;
-import SystemDesign.ParkingLot.Model.VehicleCategory;
+import ParkingLot.Model.ParkingSlotType;
+import ParkingLot.Model.Vehicle;
+import ParkingLot.Model.VehicleCategory;
 
 import java.util.Map;
 

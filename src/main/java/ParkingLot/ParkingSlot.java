@@ -1,7 +1,7 @@
 package ParkingLot;
 
-import SystemDesign.ParkingLot.Model.ParkingSlotType;
-import SystemDesign.ParkingLot.Model.Vehicle;
+import ParkingLot.Model.ParkingSlotType;
+import ParkingLot.Model.Vehicle;
 
 //import lombok.Builder;
 //import lombok.Getter;

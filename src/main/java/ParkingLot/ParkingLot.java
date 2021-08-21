@@ -1,9 +1,9 @@
 package ParkingLot;
 
-import SystemDesign.ParkingLot.Model.Address;
-import SystemDesign.ParkingLot.Model.ParkingSlotType;
-import SystemDesign.ParkingLot.Model.Ticket;
-import SystemDesign.ParkingLot.Model.Vehicle;
+import ParkingLot.Model.Address;
+import ParkingLot.Model.ParkingSlotType;
+import ParkingLot.Model.Ticket;
+import ParkingLot.Model.Vehicle;
 
 import java.util.List;
 import java.util.Map;

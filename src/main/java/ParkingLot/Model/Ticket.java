@@ -1,6 +1,6 @@
 package ParkingLot.Model;
 
-import SystemDesign.ParkingLot.ParkingSlot;
+import ParkingLot.ParkingSlot;
 
 public class Ticket {
     String ticketNumber;

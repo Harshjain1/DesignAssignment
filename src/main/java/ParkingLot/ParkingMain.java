@@ -1,6 +1,6 @@
 package ParkingLot;
 
-import SystemDesign.ParkingLot.Model.*;
+import ParkingLot.Model.*;
 
 import java.util.ArrayList;
 import java.util.HashMap;
